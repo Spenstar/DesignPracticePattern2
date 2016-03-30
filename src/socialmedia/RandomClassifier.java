@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- *
+ * Sets the value to some random value.
  * @author dan
  */
 public class RandomClassifier extends Experimenter {
