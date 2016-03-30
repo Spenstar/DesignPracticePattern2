@@ -1,6 +1,6 @@
-package socialmedia;
+ package socialmedia;
 
-
+ 
 /**
  * Encapsulates the data of a Facebook status update.
  * @author sburton
@@ -45,6 +45,4 @@ public class FacebookPost implements SocialMediaEntry {
     public void setLikes(int likes) {
         this.likes = likes;
     }
-    
-    
 }
